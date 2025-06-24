@@ -1,28 +1,28 @@
 # 📦 E-Commerce Analytics  
 **Tech:** MySQL • Python (Pandas, Seaborn) • Jupyter  
-**Role:** End-to-End Developer | Self-Project | May’25  
+**Role:** Data Analyst | Self-Project | Jun'25  
 
 ## 🚀 Project Summary  
 Built a scalable analytics pipeline to process and analyze 100K+ e-commerce records. Automated data ingestion using MySQL and conducted in-depth analysis in Python to extract actionable business insights.
 
 ## 🔧 Key Contributions  
-- 📥 **Automated Ingestion:** Wrote a dynamic Python script to clean and load 6 CSVs into MySQL with type inference and schema creation.  
-- 📊 **Data Analysis:** Explored sales trends, cohort retention, payment patterns & customer segments using SQL + Pandas.  
-- 📈 **Business Impact:** Surfaced growth levers via cohort analysis, RFM modeling & product performance insights.  
-- 📌 **Visualizations:** Delivered clean, decision-ready plots in Jupyter (line charts, heatmaps, bar graphs).
+- 📥 **Automated Ingestion:** Developed a Python script to clean and load 6 CSVs into MySQL with auto schema generation.  
+- 📊 **Data Analysis:** Performed cohort retention, sales trends, payment patterns, and customer segmentation using SQL and Pandas.  
+- 📈 **Business Impact:** Identified key revenue drivers, retention behavior, and seasonal trends to guide decision-making.  
+- 📌 **Visualizations:** Delivered insightful visual dashboards in Jupyter using Matplotlib and Seaborn.
 
 ## 🧠 Notable Insights  
-- Top 10% customers drove ~60% revenue  
-- Seasonal demand spikes uncovered through time-series  
-- Retention patterns shaped pricing recommendations  
+- Top 10% customers generated ~60% of total revenue  
+- Cohort analysis revealed sharp retention drop after first month  
+- Detected seasonal sales spikes and underperforming product categories  
 
 ## 📂 Files  
 | File                          | Purpose                                   |
 |-------------------------------|-------------------------------------------|
-| `CSV to Sql.py`              | Data loader: CSV → Cleaned SQL tables     |
-| `E Commerce Analytics.ipynb` | Full pipeline: Analysis & Visualizations  |
+| `CSV to Sql.py`              | Data loader: CSV → MySQL database         |
+| `E Commerce Analytics.ipynb` | Core analysis & visualizations notebook   |
 
 ## ▶️ How to Run  
-1. Update MySQL creds in `CSV to Sql.py`  
-2. Place all CSVs in the same folder  
-3. Run script → Launch notebook → Explore insights  
+1. Update MySQL credentials in `CSV to Sql.py`  
+2. Place all CSV files in the same directory  
+3. Run the script → Open the notebook → Explore insights  
