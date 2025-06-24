@@ -1,6 +1,6 @@
 # 📦 E-Commerce Analytics  
 **Tech:** MySQL • Python (Pandas, Seaborn) • Jupyter  
-**Role:** Data Analyst | Self-Project | Jun'25  
+**Role:** Data Analyst | Self-Project | May'25  
 
 ## 🚀 Project Summary  
 Built a scalable analytics pipeline to process and analyze 100K+ e-commerce records. Automated data ingestion using MySQL and conducted in-depth analysis in Python to extract actionable business insights.
